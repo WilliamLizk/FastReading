@@ -8,4 +8,4 @@ If you wanna get the point of one book which I have read，I think this project 
 
 
 ## Thank you！
-![Tip.jpg](https://zhimap.com/medit/6159a37f642c480e984e9ad5d97e2489/tip.jpg)
+![Tip.jpg](https://github.com/WilliamLizk/FastReading/raw/master/tip.jpg)
